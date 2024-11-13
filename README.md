@@ -28,7 +28,7 @@ anb.l
 %}
 
 /* Rule Section */
-%%
+%% 
 
 [aA] { return A; }
 [bB] { return B; }
